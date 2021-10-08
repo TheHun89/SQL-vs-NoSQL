@@ -12,5 +12,9 @@ RDBMS
 
 NoSQL - built to scale with high performance but queries are less flexible; structure relies on key/value store; structure can be tables, documents, graphs or json; scales very well
 
-* [Youtube - SQL vs NoSQL](https://www.youtube.com/watch?v=ruz-vK8IesE)
+* [NoSQL Design for DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html)
+
+* [DynamoDB Cost Optimization Tips](https://dynobase.dev/dynamodb-cost-optimization/)
+
+* [Normalization](https://www.guru99.com/database-normalization.html)
 
